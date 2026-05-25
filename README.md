@@ -1,5 +1,5 @@
 import math 
-operation = input('Enter any arthmetic operation(+,-,*,/)')
+operation = input('Enter any arthmetic operation(+,-,*,/,sqr)')
 num1 = float(input('Enter number1: '))
 num2 = float(input('Enter number2: '))
 
